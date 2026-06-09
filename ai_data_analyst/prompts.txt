@@ -1,0 +1,7 @@
+# AI Data Analyst Agent - Prompt History
+# Format: [YYYY-MM-DD HH:MM:SS] <user question>
+# This file satisfies the "Prompt Documentation" hackathon requirement.
+# All user prompts are automatically logged here.
+
+[2026-06-09 05:40:53] Show employees earning above 50000
+[2026-06-09 05:40:53] Which department has highest average salary
