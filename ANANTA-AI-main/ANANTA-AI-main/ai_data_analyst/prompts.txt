@@ -1,0 +1,33 @@
+# ANANTA AI- Prompt History
+# Format: [YYYY-MM-DD HH:MM:SS] <user question>
+# This file satisfies the "Prompt Documentation" hackathon requirement.
+# All user prompts are automatically logged here.
+
+[2026-06-09 05:40:53] Show employees earning above 50000
+[2026-06-09 05:40:53] Which department has highest average salary
+[2026-06-09 14:48:38] show employee details
+[2026-06-09 14:58:37] show employee details
+[2026-06-09 15:04:29] show employee details
+[2026-06-09 15:08:21] show student details
+[2026-06-09 15:13:33] show student details...delete arjun mehta from the table
+[2026-06-09 16:20:31] delete tables
+[2026-06-09 16:21:49] select tables
+[2026-06-09 16:24:02] select tables student
+[2026-06-09 16:26:12] drop tables student
+[2026-06-09 16:26:47] drop tables student
+[2026-06-09 16:28:12] truncate tables student
+[2026-06-09 16:33:40] drop tables student
+[2026-06-09 16:33:51] drop table students
+[2026-06-09 16:54:51] drop table students
+[2026-06-09 16:56:10] select table students
+[2026-06-09 16:57:12] truncate student table
+[2026-06-09 16:57:14] truncate student table
+[2026-06-09 17:05:11] Drop table students
+[2026-06-09 17:06:32] DROP table students
+[2026-06-09 17:08:54] drop table students
+[2026-06-09 20:44:29] select student table
+[2026-06-09 20:45:54] select table student
+[2026-06-09 20:46:35] select table student
+[2026-06-09 20:55:48] select student tables
+[2026-06-09 21:09:31] select student table
+[2026-06-09 21:12:52] select student table
